@@ -1,0 +1,30 @@
+
+
+main{
+    text-align: center;
+    width: 700px;
+    margin:auto;
+}
+
+h1{
+    background-color: black;
+    color: orange;
+    margin: auto;
+    font-weight: bold;
+}
+
+h3{
+    margin-top: 0;
+    background-color: orange;
+    color: black;
+}
+
+form{
+    background-color: orange;
+    color: black;
+}
+
+button{
+    margin-top: auto;
+    margin-bottom: auto;
+}
